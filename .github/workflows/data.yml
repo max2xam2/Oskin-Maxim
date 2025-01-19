@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print date
-        run: date +"”%Y %b %m”
+        run: date + ”%Y %b %m”
